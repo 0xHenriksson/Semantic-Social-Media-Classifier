@@ -1,0 +1,21 @@
+{
+    "oregonstate":{
+        "data":{
+            "host":"classmysql.engr.oregonstate.edu",
+            "user":"capstone_2023_tdsp1",
+            "password":"Capstone1",
+            "database":"capstone_2023_tdsp1"
+        },
+        "logging":{
+            "host":"classmysql.engr.oregonstate.edu",
+            "user":"capstone_2023_tdsp2",
+            "password":"Capstone1",
+            "database":"capstone_2023_tdsp2"
+        }
+    },
+    "pinecone":{
+        "key":"0d149ae1-ac52-4f2a-87af-d54693849369",
+        "env":"us-east1-gcp",
+        "index":"textindex"
+    }
+}
